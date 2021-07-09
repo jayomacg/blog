@@ -22,7 +22,7 @@ published: false
 
 7.	There will be errors, to remove errors right Click CountyName and select Geographic role , then select State/Province.![TableauStep7.png]({{site.baseurl}}/_posts/TableauStep7.png)
   
-8.	There will be some errors left, to remove the remaining errors, click on the bottom right of the map click on the errors and select edit location ( or right click on Map and select edit location ). Then map the BER area name ( Dublin Postcode, City or County ) to the Tableau recognized county. One complete all errors disappear. ![TableauStep8.png]({{site.baseurl}}/_posts/TableauStep8.png)
+8.	There will be some errors left, to remove the remaining errors, click on the bottom right of the map click on the errors and select edit location ( or right click on Map and select edit location ). Then map the BER area name ( Dublin Postcode, City or County ) to the Tableau recognized county. Once complete all errors disappear. ![TableauStep8.png]({{site.baseurl}}/_posts/TableauStep8.png)
 
 9.	On the top right of the screen select Show Me and then select Maps. ![TableauStep9.png]({{site.baseurl}}/_posts/TableauStep9.png)
 
