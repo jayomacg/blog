@@ -30,5 +30,4 @@ published: false
 
 11.	Result, showing county and average BER value for that county:![TableauStep11.png]({{site.baseurl}}/_posts/TableauStep11.png)
 
-12.	And now for the cherry on top! Edit color on top right, to make the differences stand out. Colored Result:![]({{site.baseurl}}/_posts/TableauStep12.png)![TableauStep12.png]({{site.baseurl}}/_posts/TableauStep12.png)
-
+12.	And now for the cherry on top! Edit color on top right, to make the differences stand out. Colored Result:![]({{site.baseurl}}/_posts/TableauStep12.png)
