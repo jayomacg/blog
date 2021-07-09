@@ -18,7 +18,7 @@ published: false
 
 5.	Click Update in Tableau and file will go into Tableau. Filtering the data is recommend, this can be done on the top right corner of the Data Source tab ![TableauStep5.png]({{site.baseurl}}/_posts/TableauStep5.png)
 
-6.	In Sheet 1 or any new worksheet, find ( search function available ),drag and drop CountyName group onto middle of screen. ![TableauStep6.png]({{site.baseurl}}/_posts/TableauStep6.png)
+6.	In Sheet 1 or any new worksheet, find "CountyName" ( search function available ),drag and drop this onto middle of screen. ![TableauStep6.png]({{site.baseurl}}/_posts/TableauStep6.png)
 
 7.	There will be errors, to remove errors right Click CountyName and select Geographic role , then select State/Province.![TableauStep7.png]({{site.baseurl}}/_posts/TableauStep7.png)
   
